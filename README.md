@@ -27,3 +27,9 @@ Supports large numbers with proper formatting like **Lac** and **Crore**.
 5. Use the function in any cell:
    ```excel
    =NumberToWords(123456.78)
+   
+## 🙏 Acknowledgements
+
+Inspired by the need for localized financial reporting tools in Bangladeshi institutions, survey firms, and data processing workflows.
+
+Special thanks to all researchers, analysts, and Excel users who deal with Bangladeshi financial data and helped shape this solution.
